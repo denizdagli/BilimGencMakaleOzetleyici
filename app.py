@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 # NLTK verilerini indir
 nltk.download('punkt', quiet=True)
 nltk.download('stopwords', quiet=True)
+nltk.download('punkt_tab')
 
 def fetch_article_content(url):
     """
