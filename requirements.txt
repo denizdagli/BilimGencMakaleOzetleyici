@@ -5,3 +5,4 @@ Requests==2.32.3
 streamlit==1.42.1
 wordcloud==1.9.3
 yake==0.4.8
+lxml==4.6.3
